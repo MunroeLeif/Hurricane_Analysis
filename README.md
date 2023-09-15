@@ -12,7 +12,7 @@ The dataset for the North Atlantic Basin was chosen for being the most complete,
 
 To answer the question of frequency in more statistical detail, time series graphs were created to show the number of storms occurring each year. 
 
-![alt text](https://github.com/[MunroeLeif]/[Hurricane_Analysis]/blob/[main]/NumStorms_line.png?raw=true)
+(https://github.com/[MunroeLeif]/[Hurricane_Analysis]/blob/[main]/NumStorms_line.png?raw=true)
 
 These graphs of the North Atlantic Basin show an overall increase in the total number of storms occurring in the North Atlantic Basin between 1922-2022. The same data plotted in scatter format allows us to quantify this observation, showing a moderate positive correlation with an r-value of 0.491. 
 
