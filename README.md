@@ -12,6 +12,8 @@ The dataset for the North Atlantic Basin was chosen for being the most complete,
 
 To answer the question of frequency in more statistical detail, time series graphs were created to show the number of storms occurring each year. 
 
+![alt text](https://github.com/[MunroeLeif]/[Hurricane_Analysis]/blob/[main]/NumStorms_line.png?raw=true)
+
 These graphs of the North Atlantic Basin show an overall increase in the total number of storms occurring in the North Atlantic Basin between 1922-2022. The same data plotted in scatter format allows us to quantify this observation, showing a moderate positive correlation with an r-value of 0.491. 
 
 To answer the question of intensity in more detail, the data was grouped based on the Saffir-Simpson Hurricane Scale, which categorizes storm intensity based on wind speed,  ranging from Tropical Storm (>64 knots) to Category 5 Hurricane (<137 knots). Because this data was only usable for the North Atlantic basin, graphs are based solely on this region. 
